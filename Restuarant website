@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Restuarant Website</title>
+</head>
+<body>
+    <h1>restuarant name</h1>
+    <p>taj hotel.</p>
+    <button>restuarant name</button>
+    <h2>food item</h2>
+    <p>idli,dosa,birayani,rice and sambar,roti.</p>
+    <button>food item</button>
+    <h3>price.</h3>
+    <p>idli=₹20,dosa=₹15,birayani=₹100,rice and sambar=₹30,roti=₹10.</p>
+    <button>price</button>
+    <h4>contact</h4>
+    <p>9999999999.</p>
+    <button>contact</button>
+<ul>
+    <li>idli=₹20</li>
+    <li>dosa=₹15</li>
+    <li>birayani=₹100</li>
+    <li>rice and sambar=₹30</li>
+    <li>roti=₹10</li>
+</ul>
+</body>
+</html>
