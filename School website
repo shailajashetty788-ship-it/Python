@@ -1,0 +1,27 @@
+<!Doctype html>
+<html>
+<head>
+title<School Website>title
+</head>
+<body>
+     <h1>school name</h1>
+     <p>shantiniketan.</p>
+     <button>school name</button>
+     <h2>about us</h2>
+     <p>school was started in 1950,our main aim is to create a responsible citizens who serves the country.</p>
+     <button>about us</button>
+     <h3>acadamics</h3>
+     <p>classes=1st to 10th,subject=English,hindi,math,science,social studies,literature.</p>
+     <h4>student life</h4>
+     <p>we give support to cultural activities,sports,personaltie development,etc.</p>
+     <button>student life</button>
+     <h5>library</h5>
+     <p>we have the vast library of 10000 books related to subject like, art, literature,story books,science,mythology,etc
+    .</p>
+     <button>library</button>
+     <h5>contact</h5>
+     <p>8899999999.</p>
+     <button>contact</button>
+</body>
+</html>
+
