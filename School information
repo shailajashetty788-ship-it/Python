@@ -1,0 +1,56 @@
+<h1>school name</h1>
+<p>shatiniketan high school.</p>
+<button>school name</button>
+<style>
+selectors{
+        margin:20px;
+}
+</style>
+<style>
+.box{
+    width:400px;
+    height:300px;
+}
+</style>
+<h2>about us</h2>
+<p>our school name is shantiniketan,we provide education from 1st to 12th,our school even give to cultural activities,sports and overall development of the student.</p>
+<button>about us</button>
+<style>
+selectors{
+         color:blue;
+}
+</style>
+<style>
+.box{
+    width:500px;
+    height:400px;
+}
+</style>
+<h3>classes and subject.</h3>
+<p>from class 1st to 10th,english,science,hindi,kannada,social science,math.</p>
+<button>classes and subject</button>
+<style>
+.box{
+    width:300px;
+    height:200px;
+}
+</style>
+<h4>events.</h4>
+<p>sports day,annual days,cultural days.</p>
+<button>events</button>
+<style>
+selectors{
+     color:green;
+}
+</style>
+<style>
+.box{
+    width:200px;
+    height:100px;
+}
+</style>
+<h5>contact</h5>
+<p>8888888888.</p>
+<button>contact</button>
+
+
