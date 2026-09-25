@@ -10,7 +10,7 @@ selectors{
 <p>my name is manish</p>
 <button>Name</button>
 <style>
-.box{
+h2{
     padding:20px;
 }
 </style>
@@ -24,7 +24,7 @@ height:100px;
 <p>i am frontend developer.</p>
 <button>profession</button>
 <style>
-selectors{
+h3{
 color:black;
 }
 </style>
@@ -38,8 +38,9 @@ height:200px;
 <p>my name is manish i am the front developer.</p>
 <button>short bio</button>
 <style>
-selectors{
+h4{
        color:green;
+       margin:15px;
 }
 </style>
 <style>
@@ -51,8 +52,36 @@ selectors{
 <h5>contact details</h5>
 <p>9999999999.</p>
 <button>contact details</button>
+<style>
 button{
       color:yellow;
+      width:200px;
+      height:100px;
+      margin:15px;
+      padding:10px;
+      boarder-radius:6px;
+      background-color:#2563eb;
+      cursor:pointer;
+      transition:o.3;
+}
+img{
+    width:100px;
+    height:100px;
+    margin:15px;
+    padding:10px;
+    object-fit:cover;
+    boarder-radius:50px;
+    margin-bottom:10px;
+}
+.card{
+     transistion:0.3s;
+}
+.card:hover{
+         transforn:translateY(-8px);
+         box-shadow 0 0 20px rgba(37,99,235,0.4);
+}
+</style>
+
 
 
 
