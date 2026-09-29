@@ -22,6 +22,50 @@
     <li>birayani=₹100</li>
     <li>rice and sambar=₹30</li>
     <li>roti=₹10</li>
+<style>
+h1{
+   color:blue;
+   margin:10px;
+   padding:5px;
+   texl-alig:centre;
+   font-weight:bold
+   font-size:30px;
+h2{
+   color:yellow;
+   margin:15px;
+   padding:10px;
+   text-aligment:cente;
+   font-weight:bold;
+   font-size:25px;
+   boarder-radius:5px;
+   letter-spacing:2px;
+h3{
+   color:green;
+   margin:10px;
+   padding:6px;
+   text-aligment:centre;
+   font-weight:bold;
+   font-size:30px;
+   boarder-radius:4px;
+h4{
+   color:grey;
+   margin:10px;
+   padding:7px;
+   text-aligment:centre;
+   font-weight:bold;
+   font-size:25px;
+   boarder-radius:5px;
+button{
+      color:brown;
+      margin:16px;
+      padding:10px;
+      text-aligment:centre;
+      font-weight:bold;
+      boarder-radius:5px;
+      font-size:20px;
+
+
+   
 </ul>
 </body>
 </html>
