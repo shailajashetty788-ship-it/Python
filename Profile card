@@ -1,0 +1,40 @@
+<h1>Images</h1>
+<img src="googlegallery.jpg" alt="google gallery">
+<button>Images</button>
+<style>
+selectors{
+        color:blue;
+}
+</style>
+<h2>Names</h2>
+<p>Manish shetty.</p>
+<button>Names</button>
+<style>
+box{
+  padding:10px;
+}
+selector{
+         width:200px;
+         height:100px;
+}
+</style>
+<h3>profession</h3>
+<p>frontend developer.</p>
+<button>profession</button>
+<style>
+box{
+    padding:20px;
+}
+selector{
+         width:300px
+         height:100px
+}
+</style>
+<h4>short bio</h4>
+<p>i learn html,css,javascript and i do frontend development.</p>
+<button>short bio</button>
+<h5>contact</h5>
+<p>9999999999.</p>
+<button>contact</button>
+
+
