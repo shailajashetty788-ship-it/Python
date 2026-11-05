@@ -30,6 +30,7 @@ h1{
    texl-alig:centre;
    font-weight:bold
    font-size:30px;
+}
 h2{
    color:yellow;
    margin:15px;
@@ -39,6 +40,7 @@ h2{
    font-size:25px;
    boarder-radius:5px;
    letter-spacing:2px;
+}
 h3{
    color:green;
    margin:10px;
@@ -47,6 +49,7 @@ h3{
    font-weight:bold;
    font-size:30px;
    boarder-radius:4px;
+}
 h4{
    color:grey;
    margin:10px;
@@ -55,6 +58,7 @@ h4{
    font-weight:bold;
    font-size:25px;
    boarder-radius:5px;
+}
 button{
       color:brown;
       margin:16px;
@@ -63,6 +67,7 @@ button{
       font-weight:bold;
       boarder-radius:5px;
       font-size:20px;
+}
 body{
      background-color:#2FFF8E;
      color:#222;
