@@ -71,7 +71,125 @@ body{
      margin:0;
      padding:0;
 }
-   
+body {
+    position: relative;
+    overflow-x: hidden;
+}
+
+body::before {
+    content: "🌿";
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    font-size: 100px;
+    transform: rotate(-30deg);
+    z-index: -1;
+}
+
+body::after {
+    content: "🌿";
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    font-size: 100px;
+    transform: scaleX(-1) rotate(-30deg);
+    z-index: -1;
+}
+body {
+    background-color: #062B1B;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+h1, h2, h3, h4 {
+    color: #D4AF37;
+    font-weight: bold;
+}
+button {
+    background-color: #D4AF37;
+    color: #062B1B;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    transition: all 0.4s ease;
+}
+
+button:hover {
+    background-color: #FFD700;
+    transform: scale(1.05);
+    cursor: pointer;
+}
+footer {
+    box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.4);
+}<footer>
+    <div class="footer-container">
+
+        <div class="footer-box">
+            <h2>Taj Hotel</h2>
+            <p>Taste the Royal Flavour</p>
+        </div>
+
+        <div class="footer-box">
+            <h3>Contact Us</h3>
+            <p>Phone: 9999999999</p>
+            <p>Location: Udupi, Karnataka</p>
+        </div>
+
+        <div class="footer-box">
+            <h3>Opening Hours</h3>
+            <p>Monday - Sunday</p>
+            <p>10 AM - 11 PM</p>
+        </div>
+
+        <div class="footer-box">
+            <h3>Follow Us</h3>
+            <p>Facebook | Instagram | YouTube</p>
+        </div>
+
+    </div>
+
+    <p class="copyright">
+        © 2026 Taj Hotel. All Rights Reserved.
+    </p>
+</footer>
+footer {
+    background-color: #001F12;
+    color: white;
+    padding: 30px 20px;
+    border-top: 3px solid #D4AF37;
+    box-shadow: 0 -5px 15px rgba(0,0,0,0.4);
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.footer-box {
+    min-width: 180px;
+}
+
+.footer-box h2,
+.footer-box h3 {
+    color: #D4AF37;
+}
+
+.footer-box p {
+    line-height: 1.6;
+}
+
+.copyright {
+    text-align: center;
+    border-top: 1px solid #D4AF37;
+    padding-top: 15px;
+    margin-top: 25px;
+}
+
 </ul>
 </body>
 </html>
