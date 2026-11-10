@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Projects</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="projects.html">My Projects</a>
+    </nav>
+
+    <header>
+        <h1>My Projects</h1>
+        <p>Welcome to my project portfolio</p>
+    </header>
+
+    <section class="projects">
+
+        <div class="card">
+            <h2>Restaurant Website</h2>
+            <p>A restaurant website created using HTML and CSS.</p>
+        </div>
+
+        <div class="card">
+            <h2>Travel Website</h2>
+            <p>A travel website showing destinations and packages.</p>
+        </div>
+
+        <div class="card">
+            <h2>Portfolio Website</h2>
+            <p>My personal portfolio website.</p>
+        </div>
+
+    </section>
+
+    <footer>
+        <p>© 2026 My Portfolio</p>
+    </footer>
+
+</body>
+</html>
+
+nav { background: #174D35; padding: 20px; text-align: center; }
+nav a { color: white; text-decoration: none; margin: 15px; font-size: 18px; }
+nav a:hover { color: yellow; }
+header { text-align: center; padding: 40px; }
+.projects { display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; padding: 30px; }
+.card { background: #174D35; padding: 25px; width: 250px; border-radius: 12px; text-align: center; box-shadow: 0 5px 15px rgba(0,0,0,0.3); }
+.card:hover { transform: translateY(-8px); transition: 0.3s; }
+footer { text-align: center; padding: 20px; }
